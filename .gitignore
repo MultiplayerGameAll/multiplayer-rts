@@ -1,0 +1,10 @@
+.vs 
+Library 
+Temp 
+*.apk 
+*.csproj 
+*.sln 
+/build 
+/.vscode 
+/multiplayer_rts_Data 
+/multiplayer-rts_Data 
